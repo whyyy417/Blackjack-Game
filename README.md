@@ -1,0 +1,3 @@
+<h1>Blackjack Game</h1>
+<p>For Scrimba’s second follow along project I created a blackjack game. As I followed along, I learned and implemented if else statements, arrays, for loops, Math.random(), Math.floor, and objects.</p>
+<p>Link to Lesson | <a target="blank"  href="https://scrimba.com/learn/learnjavascript/lets-build-a-blackjack-game-coa954d1fb213d2a9d5a1c8ab">Build a Blackjack game 100%</a></p>
